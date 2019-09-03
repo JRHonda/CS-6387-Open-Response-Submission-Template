@@ -1,5 +1,7 @@
 # CS-6387-Open-Response-Submission-Template
 
+Optional, I (JRHonda) was just experimenting.
+
 A template for submitting responses to OR questions assigned on 2VU.
 
 The HTML had to be formatted in an unorthodox manner to overcome the CSS styles applied within the 2VU forum area. So, 
